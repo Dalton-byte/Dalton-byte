@@ -1,6 +1,8 @@
 ## Hello, I'm Dalton!
 
 My name is Dalton Reeves, an aspiring cybersecurity enthusiast driven by curiosity and adaptability. I am focused on learning core skills like threat detection and risk management through hands-on projects and self-study. With a strong passion for growth, I aim to apply my developing knowledge to help protect digital environments and tackle real-world cybersecurity challenges.
+
+<!--
 **Dalton-byte/Dalton-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
